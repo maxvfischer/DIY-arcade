@@ -7,33 +7,32 @@ program).
 ![final arcade](./images/build/final_arcade.gif)
 
 ## Tutorial contents
-1. Build the cabinet
-    1. Download all the CAD-files
-    2. CNC parts
-    3. Hand-cut parts
-    4. Draw outlines of parts
-    5. Cut wood biscuits holes
-    6. Glue main parts together
-    7. Adding cabinet legs
-    8. Add screen panel
-    9. Preparing the light box
-    10. Spackling paste and sanding
-    11. Spray painting
-    12. Art work
+1. [Build the cabinet](#build-the-cabinet)
+    1. [Download the CAD-file](#download-the-cad-file)
+    2. [CNC parts](#cnc-parts)
+    3. [Hand-cut parts](#hand-cut-parts)
+    4. [Draw outlines of parts](#draw-outlines-of-parts)
+    5. [Cut wood biscuits holes](#cut-wood-biscuits-holes)
+    6. [Glue main parts together](#glue-main-parts-together)
+    7. [Adding cabinet legs](#adding-cabinet-legs)
+    8. [Add screen panel](#add-screen-panel)
+    9. [Preparing the light box](#preparing-the-light-box)
+    10. [Spackling paste and sanding](#spackling-paste-and-sanding)
+    11. [Spray painting](#spray-painting)
+    12. [Art work](#art-work)
     
-2. Add electronics
-    1. Screen
-    2. Light box
-    3. Arcade buttons and joystick
-    4. Set up RetroPie on Raspberry Pi
-    5. Configure arcade buttons and joysticks
-    6. Power button
-    7. Speakers
-    8. Structure cables
+2. [Add electronics](#add-electronics)
+    1. [Screen](#screen)
+    2. [Light box](light-box)
+    3. [Arcade buttons and joystick](#arcade-buttons-and-joystick)
+    4. [Set up RetroPie on Raspberry Pi](#set-up-retropie-on-raspberry-pi)
+    5. [Configure arcade buttons and joysticks](#configure-arcade-buttons-and-joysticks)
+    6. [Power button](#power-button)
+    7. [Speakers](#speakers)
+    8. [Structure cables](#structure-cables)
 
 ## TODO
 * Add power button script
-* Measure arcade machine and edit the CAD-file.
 
 ## Build the cabinet
 
