@@ -37,11 +37,20 @@ program).
 
 ## Build the cabinet
 
-### Download all the CAD-files
-The CAD design is done in AutoCAD Fusion 360. Below you'll find both the full CAD-file and .DXF files that can be used
-for CNC cutting.
+### Download the CAD-file
+The CAD design was created in AutoCAD Fusion 360. This was my first experience using any CAD-program, so the design 
+is likely far from optimal and there are probably a lot of possibilities for improvements. Also note that during the 
+build we had adjusted 
+ 
+[Download .dwg CAD-file](./cad_files/arcade_cabinet.dwg)
 
-TODO: Add images and links when the CAD-file is redone.
+[Download .obj CAD-file](./cad_files/arcade_cabinet.obj)
+
+[Download .step CAD-file](./cad_files/arcade_cabinet.step)
+
+[Download .stl CAD-file](./cad_files/arcade_cabinet.stl)
+
+![fly around arcade](./images/build/CAD_fly_around.gif)
 
 ### CNC parts
 To get a perfect fit for the arcade buttons and joysticks, the screen, the power button and the speakers, the 
@@ -71,14 +80,14 @@ were used:
 
 ![vertical panel saw](./images/build/table_saw.jpg)
 
-| Piece              | Size (width x height) | Image                                                              |
-|--------------------|-----------------------|--------------------------------------------------------------------|
-| Back panel         | 660 x 1670 mm         | ![vertical panel saw](./images/build/back_panel_table.jpg)         |
-| Bottom panel       | 660 x 740 mm          | ![vertical panel saw](./images/build/bottom_panel_table.jpg)       |                                                |
-| Below button panel | 660 x 123 mm          | ![vertical panel saw](./images/build/below_button_panel_table.jpg) |                                                 |
-| Hatch panel        | 660 x 468 mm          | ![vertical panel saw](./images/build/hatch_panel_table.jpg)        |                                         |
-| Light box panel 1  | 660 x 275 mm          | Missing                                                            |
-| Light box panel 2  | 660 x 236 mm          | ![vertical panel saw](./images/build/light_box_panel_2_table.jpg)  |                                               | 
+| Piece              | Image                                                              |
+|--------------------|--------------------------------------------------------------------|
+| Back panel         | ![vertical panel saw](./images/build/back_panel_table.jpg)         |
+| Bottom panel       | ![vertical panel saw](./images/build/bottom_panel_table.jpg)       |                                                |
+| Below button panel | ![vertical panel saw](./images/build/below_button_panel_table.jpg) |                                                 |
+| Hatch panel        | ![vertical panel saw](./images/build/hatch_panel_table.jpg)        |                                         |
+| Light box panel 1  | Missing                                                            |
+| Light box panel 2  | ![vertical panel saw](./images/build/light_box_panel_2_table.jpg)  |                                               | 
 
 The only panel that needed some more work was the hatch panel. The outlines of the hatch were first sketched on the 
 panel.
