@@ -545,3 +545,8 @@ To keep everything nice and structured inside the cabinet, I attached cable cana
 ![structure cables 6](./images/build/structure_cables_6.jpg)
 
 ![structure cables 7](./images/build/structure_cables_7.jpg)
+
+### Contact
+If you have any questions, feel free to contact me:
+
+![contact](./images/contact.png)
