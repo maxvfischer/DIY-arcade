@@ -31,6 +31,8 @@ program).
     7. [Speakers](#speakers)
     8. [Structure cables](#structure-cables)
 
+3. [Contact](#contact)
+
 ## Build the cabinet
 
 ### Download the CAD-file
@@ -546,7 +548,7 @@ To keep everything nice and structured inside the cabinet, I attached cable cana
 
 ![structure cables 7](./images/build/structure_cables_7.jpg)
 
-### Contact
+## Contact
 If you have any questions, feel free to contact me:
 
 ![contact](./images/contact.png)
