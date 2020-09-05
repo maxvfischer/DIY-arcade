@@ -31,9 +31,6 @@ program).
     7. [Speakers](#speakers)
     8. [Structure cables](#structure-cables)
 
-## TODO
-* Add power button script
-
 ## Build the cabinet
 
 ### Download the CAD-file
@@ -502,8 +499,17 @@ Raspberry Pi is natively waken up from its halted state.
 ![power button 5](./images/build/power_button_5.jpg)
 
 A small script was then added and executed on start up of the Raspberry Pi. The script listened to another shortening of
-the GPIO pins 5 and 6, that then triggered a safe shutdown of the machine. The script can be found here: XXXX.
-The execution of the script was done by adding it to the .bashrc-file, thus executed on start up of the machine.
+the GPIO pins 5 and 6, that then triggered a safe shutdown of the machine.
+
+To add the shutdown script, do the following:
+1. Start the Raspberry Pi
+2. When the EmulationStation has started, click F4 on your keyboard to enter bash
+3. Make sure that you have python and pip installed
+4. Install RPi.GPIO: `pip install RPi.GPIO` (see https://pypi.org/project/RPi.GPIO/)
+5. Create a utils folder under /home: `mkdir /home/utils/`
+6. Add [this script (shutdown_script.py)](./scripts/shutdown_script.py) to the newly created utils folder
+7. To make the Raspberry run this script on start up, add the line `python3 /home/utils/shutdown_script.py &` at the 
+end of the file `/etc/rc.local`, just before `exit 0`.
 
 ![power button 6](./images/build/power_button_6.gif)
 
