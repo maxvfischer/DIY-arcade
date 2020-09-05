@@ -23,7 +23,7 @@ program).
     
 2. [Add electronics](#add-electronics)
     1. [Screen](#screen)
-    2. [Light box](light-box)
+    2. [Light box](#light-box)
     3. [Arcade buttons and joystick](#arcade-buttons-and-joystick)
     4. [Set up RetroPie on Raspberry Pi](#set-up-retropie-on-raspberry-pi)
     5. [Configure arcade buttons and joysticks](#configure-arcade-buttons-and-joysticks)
