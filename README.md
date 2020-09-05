@@ -37,8 +37,7 @@ program).
 
 ### Download the CAD-file
 The CAD design was created in AutoCAD Fusion 360. This was my first experience using any CAD-program, so the design 
-is likely far from optimal and there are probably a lot of possibilities for improvements. Also note that during the 
-build we had adjusted 
+is likely far from optimal and there are probably a lot of possibilities for improvements. 
  
 [Download .dwg CAD-file](./cad_files/arcade_cabinet.dwg)
 
@@ -160,11 +159,9 @@ for making the cabinet robust, but also helps with fixating all the panels at th
 panel that wasn't joined with wood biscuits was the screen panel. The reason was for the screen to be interchangeable 
 if it breaks, something that is not possible (or atleast very difficult) if the panel is glued in place.
 
-When using the wood biscuit cutter, it's important that the holes end up at the same place at both aligning panels. One 
+When using the wood biscuit cutter, it's important that the holes end up at the correct place at the aligning panels. One 
 simple way of solving this is to align your panels and draw a line on both panels at the center of where the biscuit 
 should be. At least my machine has a vertical line that you can align with your drawn lines. If you do this, the holes will end up at the right place.
-
-Remember that the bottom panel should be raised by a few millimeter for the cabinet legs to be able to lock in nicely.
 
 ![vertical panel saw](./images/build/biscuit_joiner_2.jpg)
 
@@ -189,9 +186,9 @@ shapes (triangles, circles etc) on connecting parts, so you easily know which pa
 
 ### Glue main parts together
 When gluing the parts together, you'll need to be fairly quick and structured. I started of by laying down one side first, 
-then gluing the middle parts and finally gluing the other side.
+then gluing the middle parts and finally gluing the other side panel.
 
-Start of by adding the glue in the wood biscuits hole, then press down the wood biscuits into the holes. After that you 
+Start of by adding the glue in the wood biscuit holes, then press down the wood biscuits into the holes. After that you 
 apply wood glue along all the connecting parts and press them together.
 
 ![glue 2](./images/build/glue_2.jpg)
@@ -233,7 +230,7 @@ Use a sand paper to round the edges.
 
 ![legs 2](./images/build/legs_2.jpg)
 
-The legs was then glued from the outside and screwed together from the inside.
+The legs was then glued from the outside and screwed from the inside.
 
 ![legs 3](./images/build/legs_3.jpg)
 
@@ -323,7 +320,7 @@ reflection in the light box, I got it spray painted white.
 ### Art work
 I'm familiar with Adobe Illustrator, but far from an expert in creating art work. So to create the art work, I paid for 
 a premium subscription at Freepik (https://www.freepik.com) that costs 9.99 €/month. This enabled me to download a bunch 
-of different high-quality vectorized retro illustrations that I combined into the art work. When done, I printed them 
+of different high-quality vectorized retro illustrations that I combined into the final art work. When done, I printed them 
 as stickers.
 
 ![art work 1](./images/build/art_work_1.gif)
@@ -455,8 +452,8 @@ board that is included in the set. Then you connect the USB-cord to the circuit 
 
 ![arcade_buttons 2](./images/build/arcade_buttons_2.jpg)
 
-To center the joysticks in the holes, I used a wide double-coated adhesive tape normally used to attach rugs to the 
-floor. One person then centered the joystick from the top, while the other person locked it in place. The joysticks were
+To center the joysticks in the holes, I used a wide double-coated adhesive tape normally used to attach rugs to 
+floors. One person then centered the joystick from the top, while the other person locked it in place. The joysticks were
 then screwed into the button panel. 
 
 ![arcade_buttons 4](./images/build/arcade_buttons_4.jpg)
@@ -472,8 +469,8 @@ then screwed into the button panel.
 ![arcade_buttons 7](./images/build/arcade_buttons_7.jpg)
 
 ### Set up RetroPie on Raspberry Pi
-RetroPie (https://retropie.org.uk/) sits on top of an operating system and enables you create a retro 
-gaming station out of a Raspberry Pi. To set up the Raspberry Pi, follow RetroPie's official installation guide:
+RetroPie (https://retropie.org.uk/) is the program that enables you to create a retro gaming station out of the 
+Raspberry Pi. To set it up on the Raspberry Pi, follow RetroPie's official installation guide:
 https://retropie.org.uk/docs/First-Installation/ (last visited 2020-06-29).
 
 ### Configure arcade buttons and joysticks
@@ -483,7 +480,7 @@ Follow the instructions to configure the controllers. You should now be able to 
 the buttons.
 
 ### Power button
-To enable a convenient way of shutting down the arcade machine, I integrated a hole in the screen panel,
+To enable a convenient way of shutting down the arcade machine, I added a hole in the screen panel,
 fitting a power button.
 
 ![power button 1](./images/build/power_button_1.jpg)
@@ -521,7 +518,7 @@ the Raspberry Pi, turning of all the other electronics as well (screen, light bo
 ### Speakers
 Two speaker wires were soldered to each speaker. The speakers were then placed in the CNC-cut holes and attached by 
 screws to the screen panel. All cables were then connected to the amplifier. A 3.5mm AUX stereo cable was then
-connected to the amplifier and to the Raspberry Pi.
+connected between the amplifier and the Raspberry Pi.
 
 ![speakers 1](./images/build/speakers_1.jpg)
 
@@ -547,6 +544,9 @@ To keep everything nice and structured inside the cabinet, I attached cable cana
 ![structure cables 6](./images/build/structure_cables_6.jpg)
 
 ![structure cables 7](./images/build/structure_cables_7.jpg)
+
+## Final arcade cabinet
+![final arcade](./images/build/final_arcade.gif)
 
 ## Contact
 If you have any questions, feel free to contact me:
