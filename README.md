@@ -6,7 +6,7 @@ program).
 
 ![final arcade](./images/build/final_arcade.gif)
 
-## Tutorial contents
+## Table of content
 1. [Build the cabinet](#build-the-cabinet)
     1. [Download the CAD-file](#download-the-cad-file)
     2. [CNC parts](#cnc-parts)
