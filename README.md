@@ -22,16 +22,18 @@ program).
     12. [Art work](#art-work)
     
 2. [Add electronics](#add-electronics)
-    1. [Screen](#screen)
-    2. [Light box](#light-box)
-    3. [Arcade buttons and joystick](#arcade-buttons-and-joystick)
-    4. [Set up RetroPie on Raspberry Pi](#set-up-retropie-on-raspberry-pi)
-    5. [Configure arcade buttons and joysticks](#configure-arcade-buttons-and-joysticks)
-    6. [Power button](#power-button)
-    7. [Speakers](#speakers)
-    8. [Structure cables](#structure-cables)
+    1. [Add electricity to the cabinet](#add-electricity-to-the-cabinet)
+    2. [Screen](#screen)
+    3. [Light box](#light-box)
+    4. [Arcade buttons and joystick](#arcade-buttons-and-joystick)
+    5. [Set up RetroPie on Raspberry Pi](#set-up-retropie-on-raspberry-pi)
+    6. [Configure arcade buttons and joysticks](#configure-arcade-buttons-and-joysticks)
+    7. [Power button](#power-button)
+    8. [Speakers](#speakers)
+    9. [Structure cables](#structure-cables)
 
-3. [Contact](#contact)
+3. [Final arcade cabinet](#final-arcade-cabinet)
+    1. [Contact](#contact)
 
 ## Build the cabinet
 
@@ -126,6 +128,11 @@ Also a hole was cut at the top of the inner part to enable it to be opened.
 
 ![hatch 11](./images/build/hatch_11.jpg)
 
+A hole was also drilled at the bottom of the back panel to prepare for a power strip to be inserted.
+
+![cable grommet 1](./images/build/electricity_grommet_1.jpg)
+
+![cable grommet 2](./images/build/electricity_grommet_2.jpg)
 
 ### Draw outlines of parts
 It's important to fixate all the parts at the same location on both side panels for the cabinet to be symmetrical. To 
@@ -377,6 +384,14 @@ To help the players, stickers indicating the button configuration were added.
 
 ## Add electronics
 
+### Add electricity to the cabinet
+A round, plastic, cable grommet was inserted into the hole previously drilled at the bottom of the back panel. A 
+power strip was then added.
+
+![power strip 1](./images/build/power_strip_1.jpg)
+
+![power strip 2](./images/build/power_strip_2.jpg)
+
 ### Screen
 
 The screen was kept in place by using galvanized banding straps.
@@ -393,7 +408,6 @@ The screen was kept in place by using galvanized banding straps.
 
 ### Light box
 To get a consistent feel of the art work I reused some of the graphical component from the side panels.
-
 
 ![light box 1](./images/build/light_box_1.jpg)
 
@@ -548,7 +562,13 @@ To keep everything nice and structured inside the cabinet, I attached cable cana
 ## Final arcade cabinet
 ![final arcade](./images/build/final_arcade.gif)
 
-## Contact
+![final arcade 1](./images/build/final_arcade_1.jpg)
+
+![final arcade 2](./images/build/final_arcade_2.jpg)
+
+![final arcade 3](./images/build/final_arcade_3.jpg)
+
+### Contact
 If you have any questions, feel free to contact me:
 
 ![contact](./images/contact.png)
