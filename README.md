@@ -41,6 +41,8 @@ program).
 The CAD design was created in AutoCAD Fusion 360. This was my first experience using any CAD-program, so the design 
 is likely far from optimal and there are probably a lot of possibilities for improvements. 
  
+[Watch the CAD-file on GitHub's 3D File Viewer](./cad_files/arcade_cabinet.stl)
+ 
 [Download .dwg CAD-file](./cad_files/arcade_cabinet.dwg)
 
 [Download .obj CAD-file](./cad_files/arcade_cabinet.obj)
@@ -48,8 +50,6 @@ is likely far from optimal and there are probably a lot of possibilities for imp
 [Download .step CAD-file](./cad_files/arcade_cabinet.step)
 
 [Download .stl CAD-file](./cad_files/arcade_cabinet.stl)
-
-<script src="https://embed.github.com/view/3d/maxvfischer/DIY-arcade/blob/master/cad_files/arcade_cabinet.stl"></script>
 
 ![fly around arcade](./images/build/CAD_fly_around.gif)
 
