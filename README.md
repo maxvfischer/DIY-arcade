@@ -72,10 +72,10 @@ Oh, and remember to CNC-cut the CAD file on size 1:1 and not "utilize full MDF b
 ![wrong cnc](./images/build/wrong_cnc.jpg)
 
 ### Hand-cut parts
-As the rest of the parts were more or less squared, they were cut by "hand". To do this, two different mounted saws
+As the rest of the parts were more or less rectangular, they were cut by "hand". To do this, two different mounted saws
 were used:
 * A vertical panel saw to cut down the MDF to smaller pieces
-* A table saw to cut out the final pieces.
+* A table saw to cut out the final pieces
 
 ![vertical panel saw](./images/build/vertical_panel_saw.jpg)
 
@@ -108,7 +108,7 @@ A hand held jigsaw was used for the edges as it's difficult to know how far the 
 After the main part was separated into the inner and outer part, "blockers" were glued and nailed into place. This, 
 together with a standard window magnet was used to keep the hatch in place.
 
-Also a hole was cut at the top of the inner part to enable it to be opened.
+A hole was also cut at the top of the inner part to enable it to be opened.
 
 ![hatch 5](./images/build/hatch_5.jpg)
 
@@ -130,17 +130,18 @@ Also a hole was cut at the top of the inner part to enable it to be opened.
 
 ![hatch 11](./images/build/hatch_11.jpg)
 
-A hole was also drilled at the bottom of the back panel to prepare for a power strip to be inserted.
+A hole was also drilled at the bottom of the large back panel to prepare for a power strip to be inserted.
 
 ![cable grommet 1](./images/build/electricity_grommet_1.jpg)
 
 ![cable grommet 2](./images/build/electricity_grommet_2.jpg)
 
 ### Draw outlines of parts
-It's important to fixate all the parts at the same location on both side panels for the cabinet to be symmetrical. To 
+It was important to fixate all the parts at the same location on both side panels for the cabinet to be symmetrical. To 
 simplify this, outlines were drawn where each panel was supposed to be attached to the side panels. As the button panel 
-and the screen panel is attached at an angle, the oulines were first drawn on one of the side panels. Then they were 
-reflected by using some reference points. It was a bit tricky, so take your time.
+and the screen panel were attached at an angle, their outlines were first drawn on one of the side panels. Then the 
+outlines were reflected and transferred to the other side panel by using some reference points. It was a bit tricky, 
+so take your time.
 
 ![vertical panel saw](./images/build/outlines_side_panel_2.jpg)
 
@@ -164,13 +165,13 @@ reflected by using some reference points. It was a bit tricky, so take your time
 
 ### Cut wood biscuits holes
 To hold all the panels together, wood biscuits, wood glue and a nail gun were used. The wood biscuits are not only good 
-for making the cabinet robust, but also helps with fixating all the panels at the right places and angles. The only 
-panel that wasn't joined with wood biscuits was the screen panel. The reason was for the screen to be interchangeable 
+for making the cabinet robust, but they also help with fixating all the panels at the right places and angles. The only 
+panel that wasn't attached with wood biscuits was the screen panel. The reason was for the screen to be interchangeable 
 if it breaks, something that is not possible (or atleast very difficult) if the panel is glued in place.
 
-When using the wood biscuit cutter, it's important that the holes end up at the correct place at the aligning panels. One 
-simple way of solving this is to align your panels and draw a line on both panels at the center of where the biscuit 
-should be. At least my machine has a vertical line that you can align with your drawn lines. If you do this, the holes will end up at the right place.
+When using the wood biscuit cutter, it's important that the holes end up at the correct place at the aligning panels. 
+One simple way of solving this is to align your panels and then draw a line on both panels at the center of where you 
+want the biscuit to be. If you do this, the holes will end up at the right place.
 
 ![vertical panel saw](./images/build/biscuit_joiner_2.jpg)
 
@@ -194,10 +195,10 @@ shapes (triangles, circles etc) on connecting parts, so you easily know which pa
 ![vertical panel saw](./images/build/fit_panels_3.jpg)
 
 ### Glue main parts together
-When gluing the parts together, you'll need to be fairly quick and structured. I started of by laying down one side first, 
-then gluing the middle parts and finally gluing the other side panel.
+When gluing the parts together, you'll need to be fairly quick and structured. I started of by laying down one side 
+panel first, then gluing the middle parts and finally gluing the other side panel.
 
-Start of by adding the glue in the wood biscuit holes, then press down the wood biscuits into the holes. After that you 
+Start of by adding the glue in the wood biscuit holes. Then press down the wood biscuits into the holes. After that you 
 apply wood glue along all the connecting parts and press them together.
 
 ![glue 2](./images/build/glue_2.jpg)
@@ -225,8 +226,8 @@ nice finish later on.
 ![glue 9](./images/build/glue_9.jpg)
 
 ### Adding cabinet legs
-To distribute the upwards force more from the legs, a small block of wood was glued and nailed inside the cabinet in 
-each corner.
+To distribute the upwards force from the legs, a small block of wood was glued and nailed in each corner inside the 
+cabinet.
 
 ![legs 5](./images/build/legs_5.jpg)
 
@@ -293,7 +294,7 @@ in place, four small wood cubes were glued and nailed at each corner for the ple
 ![preparing lightbox 2](./images/build/preparing_lightbox_2.jpg)
 
 ### Spackling paste and sanding
-Before the cabinet was sent to spray painting, the final touches was made to get a nice smooth finish. Spackling paste 
+Before the cabinet was sent to spray painting, final touches were made to get a nice smooth finish. Spackling paste 
 was applied to cover up all the nails and plastic padding was used to cover up small visible mistakes made. When 
 everything had dried, an electric sander was used to remove redundant spackling paste and plastic padding. All the edges
 was smoothed by manual sanding.
@@ -315,8 +316,8 @@ was smoothed by manual sanding.
 ![spackling paste 8](./images/build/spackling_paste_8.jpg)
 
 ### Spray painting
-To get a nice finish, I payed for a professional to spray paint the cabinet in a black lacquer color. To get a good
-reflection in the light box, I got it spray painted white.
+To get a nice finish, I payed a professional to spray paint the cabinet in a black lacquer color. To get a good
+light reflection in the light box, I got it painted white.
 
 ![spray painted 1](./images/build/spray_painted_1.jpg)
 
@@ -336,7 +337,7 @@ as stickers.
 
 ![art work 2](./images/build/art_work_2.jpg)
 
-When applying the art work, the secret is to tape the sticker at one side to fixate it, then you remove some of the
+A good way to apply the art work is to tape the sticker at one side to fixate it, then you remove some of the
 cover and start scraping it from the bottom up. By doing so, you'll get it at the exact position while reducing the 
 number of bubbles.
 
@@ -364,8 +365,6 @@ The side stickers were so large that they had to be split into two separate part
 arrows were drawn indicating where the two parts should align. A small space were kept at the bottom to reduce the risk 
 of the sticker being peeled off. 
 
-The same technique as before were used.
-
 ![art work 13](./images/build/art_work_13.jpg)
 
 ![art work 14](./images/build/art_work_14.jpg)
@@ -376,7 +375,7 @@ The same technique as before were used.
 
 ![art work 17](./images/build/art_work_17.jpg)
 
-To help the players, stickers indicating the button configuration were added.
+Stickers indicating the button configuration were also added.
 
 ![art work 19](./images/build/art_work_19.jpg)
 
@@ -387,7 +386,7 @@ To help the players, stickers indicating the button configuration were added.
 ## Add electronics
 
 ### Add electricity to the cabinet
-A round, plastic, cable grommet was inserted into the hole previously drilled at the bottom of the back panel. A 
+A round plastic cable grommet was inserted into the hole previously drilled at the bottom of the back panel. A 
 power strip was then added.
 
 ![power strip 1](./images/build/power_strip_1.jpg)
@@ -419,7 +418,7 @@ sticker was then attached to a frosted plexiglas.
 ![light box 2](./images/build/light_box_2.jpg)
 
 For the light source I used a LED tube of fitting length, with a wire that was long enough to go all the way 
-down to the power supply at the bottom of the cabinet. The LED tube was attached to the back panel by using 
+down to the power strip at the bottom of the cabinet. The LED tube was attached to the back panel by using 
 double-coated adhesive tape.
 
 ![light box 3](./images/build/light_box_3.jpg)
@@ -455,11 +454,11 @@ Double-coated adhesive tape was also used to keep the plexiglas in place.
 
 ![light box 17](./images/build/light_box_17.jpg)
 
-### Arcade buttons and joystick
+### Arcade buttons and joysticks
 
-Before I started this project, I bought two sets of arcade buttons from Aliexpress. This type of button set is very 
+Before I started this project, I bought two sets of arcade buttons and joysticks from Aliexpress. This type of button set is very 
 convenient to use, even without any knowledge of electronic circuit boards. I don't know if this exact set is still 
-available, but I've seen multiple vendors selling the same type of arcade button sets with the USB-board.
+available, but I've seen multiple vendors selling similar types of arcade button sets.
 
 Using this type of set makes hooking up the buttons very simple. You attach each button and the joystick to the circuit
 board that is included in the set. Then you connect the USB-cord to the circuit board and to the computer.
@@ -469,8 +468,8 @@ board that is included in the set. Then you connect the USB-cord to the circuit 
 ![arcade_buttons 2](./images/build/arcade_buttons_2.jpg)
 
 To center the joysticks in the holes, I used a wide double-coated adhesive tape normally used to attach rugs to 
-floors. One person then centered the joystick from the top, while the other person locked it in place. The joysticks were
-then screwed into the button panel. 
+floors. It's easier to be two people doing this, one person centering the joystick from the top, while the other person 
+locking it in place. The joysticks were then screwed into the button panel. 
 
 ![arcade_buttons 4](./images/build/arcade_buttons_4.jpg)
 
@@ -486,14 +485,13 @@ then screwed into the button panel.
 
 ### Set up RetroPie on Raspberry Pi
 RetroPie (https://retropie.org.uk/) is the program that enables you to create a retro gaming station out of the 
-Raspberry Pi. To set it up on the Raspberry Pi, follow RetroPie's official installation guide:
-https://retropie.org.uk/docs/First-Installation/ (last visited 2020-06-29).
+Raspberry Pi. As RetroPie is an open-source project that is continuously updated, it's easiest for you to follow the 
+installation guide on their website: https://retropie.org.uk/docs/First-Installation/ (visited at 2020-09-06).
 
 ### Configure arcade buttons and joysticks
-Connect the USB cables from the arcade button electronic circuit boards, then turn on the Raspberry Pi. 
-If you've installed RetroPie successfully, you should see a welcome screen asking you to configure the controllers. 
-Follow the instructions to configure the controllers. You should now be able to navigate in RetroPie using the joystick 
-the buttons.
+The USB cables from the arcade button electronic circuit boards were connected to the Raspberry Pi.
+When the Raspberry Pi is turned on and RetroPie is started, a welcome screen should be visible, asking you to configure 
+the controllers.
 
 ### Power button
 To enable a convenient way of shutting down the arcade machine, I added a hole in the screen panel,
@@ -502,8 +500,8 @@ fitting a power button.
 ![power button 1](./images/build/power_button_1.jpg)
 
 Two cables were then soldered to the button and attached to the GPIO pins 5 and 6 on the Raspberry Pi (see a 
-GPIO diagram here: https://www.raspberrypi.org/documentation/usage/gpio/). When shortening the GPIO pins 5 and 6, the 
-Raspberry Pi is natively waken up from its halted state.
+GPIO diagram here: https://www.raspberrypi.org/documentation/usage/gpio/, visited 2020-09-06). When shortening the 
+GPIO pins 5 and 6, the Raspberry Pi is natively waken up from its halted state.
 
 ![power button 2](./images/build/power_button_2.jpg)
 
@@ -518,13 +516,13 @@ the GPIO pins 5 and 6, that then triggered a safe shutdown of the machine.
 
 To add the shutdown script, do the following:
 1. Start the Raspberry Pi
-2. When the EmulationStation has started, click F4 on your keyboard to enter bash
+2. When the EmulationStation (RetroPie) has started, click F4 on your keyboard to enter bash
 3. Make sure that you have python and pip installed
 4. Install RPi.GPIO: `pip install RPi.GPIO` (see https://pypi.org/project/RPi.GPIO/)
 5. Create a utils folder under /home: `mkdir /home/utils/`
 6. Add [this script (shutdown_script.py)](./scripts/shutdown_script.py) to the newly created utils folder
 7. To make the Raspberry run this script on start up, add the line `python3 /home/utils/shutdown_script.py &` at the 
-end of the file `/etc/rc.local`, just before `exit 0`.
+end of the file `/etc/rc.local`, just before `exit 0`
 
 ![power button 6](./images/build/power_button_6.gif)
 
