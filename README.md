@@ -1,10 +1,9 @@
-# How to build your own full-size arcade machine from scratch
+![main gif](./images/main_gif.gif)
+
 This guide goes through all the steps necessary to build your own full-size arcade machine, including the 
 pre-designed CAD-files, how to assemble all the cabinet parts, how to set up the computer running the arcade program
 etc. The project was my first project going from CAD to actual build (actually also the first time I used a CAD 
 program).
-
-![final arcade](./images/build/final_arcade.gif)
 
 ## Table of content
 1. [Build the cabinet](#build-the-cabinet)
