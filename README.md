@@ -32,7 +32,7 @@ program).
     8. [Speakers](#speakers)
     9. [Structure cables](#structure-cables)
 
-3. [Final arcade cabinet](#final-arcade-cabinet)
+3. [Final arcade machine](#final-arcade-machine)
     1. [Contact](#contact)
 
 ## Build the cabinet
@@ -561,7 +561,7 @@ To keep everything nice and structured inside the cabinet, I attached cable cana
 
 ![structure cables 7](./images/build/structure_cables_7.jpg)
 
-## Final arcade cabinet
+## Final arcade machine
 ![final arcade](./images/build/final_arcade.gif)
 
 ![final arcade 1](./images/build/final_arcade_1.jpg)
