@@ -5,6 +5,10 @@ pre-designed CAD-files, how to assemble all the cabinet parts, how to set up the
 etc. The project was my first project going from CAD to actual build (actually also the first time I used a CAD 
 program).
 
+If you have any questions, feel free to contact me on LinkedIn: [https://www.linkedin.com/in/max-fischer-92997281/
+](https://www.linkedin.com/in/max-fischer-92997281/
+)
+
 ## Table of content
 1. [Build the cabinet](#build-the-cabinet)
     1. [Download the CAD-file](#download-the-cad-file)
