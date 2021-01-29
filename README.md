@@ -42,17 +42,44 @@ If you have any questions, feel free to contact me on LinkedIn: [https://www.lin
 
 ### Download the CAD-file
 The CAD design was created in AutoCAD Fusion 360. This was my first experience using any CAD-program, so the design 
-is likely far from optimal and there are probably a lot of possibilities for improvements. 
- 
+is likely far from optimal and there are probably a lot of possibilities for improvements. Note that all the CAD-files are in millimeters.
+
+**3d**
+
 [Watch the CAD-file on GitHub's 3D File Viewer](./cad_files/arcade_cabinet.stl)
  
-[Download .dwg CAD-file](./cad_files/arcade_cabinet.dwg)
+[Download CAD-file (.dwg)](./cad_files/arcade_cabinet.dwg)
 
-[Download .obj CAD-file](./cad_files/arcade_cabinet.obj)
+[Download CAD-file (.obj)](./cad_files/arcade_cabinet.obj)
 
-[Download .step CAD-file](./cad_files/arcade_cabinet.step)
+[Download CAD-file (.step)](./cad_files/arcade_cabinet.step)
 
-[Download .stl CAD-file](./cad_files/arcade_cabinet.stl)
+[Download CAD-file (.stl)](./cad_files/arcade_cabinet.stl)
+
+[Download CAD-file (.f3d)](./cad_files/arcade_cabinet.f3d)
+
+**2d**
+
+[Download side panel (.dxf)](./cad_files/2d_dxf/side_panel.dxf)
+
+[Download screen panel (.dxf)](./cad_files/2d_dxf/screen_panel.dxf)
+
+[Download button panel (.dxf)](./cad_files/2d_dxf/button_panel.dxf)
+
+[Download below button panel (.dxf)](./cad_files/2d_dxf/below_button_panel.dxf)
+
+[Download back panel (.dxf)](./cad_files/2d_dxf/back_panel.dxf)
+
+[Download hatch outside panel (.dxf)](./cad_files/2d_dxf/hatch_outside_panel.dxf)
+
+[Download hatch inside panel (.dxf)](./cad_files/2d_dxf/hatch_inside_panel.dxf)
+
+[Download bottom panel (.dxf)](./cad_files/2d_dxf/bottom_panel.dxf)
+
+[Download lightbox top (.dxf)](./cad_files/2d_dxf/lightbox_top_panel.dxf)
+
+[Download lightbox bottom (.dxf)](./cad_files/2d_dxf/lightbox_bottom_panel.dxf)
+
 
 ![fly around arcade](./images/build/CAD_fly_around.gif)
 
