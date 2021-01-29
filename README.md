@@ -42,7 +42,7 @@ If you have any questions, feel free to contact me on LinkedIn: [https://www.lin
 
 ### Download the CAD-file
 The CAD design was created in AutoCAD Fusion 360. This was my first experience using any CAD-program, so the design 
-is likely far from optimal and there are probably a lot of possibilities for improvements. 
+is likely far from optimal and there are probably a lot of possibilities for improvements. Note that all the CAD-files are in millimeters.
  
 [Watch the CAD-file on GitHub's 3D File Viewer](./cad_files/arcade_cabinet.stl)
  
