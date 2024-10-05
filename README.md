@@ -9,6 +9,8 @@ If you have any questions, feel free to contact me on LinkedIn: [https://www.lin
 ](https://www.linkedin.com/in/max-fischer-92997281/
 )
 
+[Here you can see the arcade machines built from this design by the community.](#arcade-machines-built-by-the-community)
+
 ## Table of content
 1. [Build the cabinet](#build-the-cabinet)
     1. [Download the CAD-file](#download-the-cad-file)
@@ -37,6 +39,8 @@ If you have any questions, feel free to contact me on LinkedIn: [https://www.lin
 
 3. [Final arcade machine](#final-arcade-machine)
     1. [Contact](#contact)
+
+4. [Arcade machines built by the community](#arcade-machines-built-by-the-community)
 
 ## Build the cabinet
 
@@ -602,3 +606,11 @@ To keep everything nice and structured inside the cabinet, I attached cable cana
 If you have any questions, feel free to contact me:
 
 ![contact](./images/contact.png)
+
+## Arcade machines built by the community
+
+### Arcade machine 1
+
+![build_1_1](./images/other_builds/build_1_1.jpeg)
+
+![build_1_2](./images/other_builds/build_1_1.jpeg)
